@@ -1,0 +1,12 @@
+D:\Nam4\HocKi2\LapTrinhWeb\19T1021302\19T1021302.DomainModels\bin\Debug\19T1021302.DomainModels.dll
+D:\Nam4\HocKi2\LapTrinhWeb\19T1021302\19T1021302.DomainModels\bin\Debug\19T1021302.DomainModels.pdb
+D:\Nam4\HocKi2\LapTrinhWeb\19T1021302\19T1021302.DomainModels\obj\Debug\19T1021302.DomainModels.csproj.AssemblyReference.cache
+D:\Nam4\HocKi2\LapTrinhWeb\19T1021302\19T1021302.DomainModels\obj\Debug\19T1021302.DomainModels.csproj.CoreCompileInputs.cache
+D:\Nam4\HocKi2\LapTrinhWeb\19T1021302\19T1021302.DomainModels\obj\Debug\19T1021302.DomainModels.dll
+D:\Nam4\HocKi2\LapTrinhWeb\19T1021302\19T1021302.DomainModels\obj\Debug\19T1021302.DomainModels.pdb
+C:\Users\LENOVO\Downloads\19T1021302\19T1021302\19T1021302.DomainModels\bin\Debug\19T1021302.DomainModels.dll
+C:\Users\LENOVO\Downloads\19T1021302\19T1021302\19T1021302.DomainModels\bin\Debug\19T1021302.DomainModels.pdb
+C:\Users\LENOVO\Downloads\19T1021302\19T1021302\19T1021302.DomainModels\obj\Debug\19T1021302.DomainModels.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\19T1021302\19T1021302\19T1021302.DomainModels\obj\Debug\19T1021302.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\19T1021302\19T1021302\19T1021302.DomainModels\obj\Debug\19T1021302.DomainModels.dll
+C:\Users\LENOVO\Downloads\19T1021302\19T1021302\19T1021302.DomainModels\obj\Debug\19T1021302.DomainModels.pdb

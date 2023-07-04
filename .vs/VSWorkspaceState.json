@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\19T1021302.BusinessLayers\\Properties",
+    "\\19T1021302.Datalayers\\SQLServer",
+    "\\19T1021302.Web",
+    "\\19T1021302.Web\\Views",
+    "\\19T1021302.Web\\Views\\Order"
+  ],
+  "SelectedNode": "\\19T1021302.Web\\Views\\Order\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}
